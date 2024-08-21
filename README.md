@@ -10,6 +10,13 @@ This project combines hand gesture recognition and speech recognition to create 
  4.Real-time Processing: The system processes inputs in real-time, providing immediate feedback and response.
 
  # Demo
+
+ Application view of Speech Module
+ ![speech to text using python](https://github.com/user-attachments/assets/72c8f836-a57f-48b6-a747-d877fa9bd436)
+ 
+ Speech and Gesture Recognition
+ ![speech and gesture recognition](https://github.com/user-attachments/assets/1fd0ca91-2406-4597-bf31-b096cd5b557c)
+
  
 
 # Installation
